@@ -6,7 +6,7 @@ Theme: Artificial Intelligence & Machine Learning
 
 About the idea
 Problem:
-Farmers in India spend crores of rupees on disease management, often without adequate technical support, resulting in poor disease control, pollution and harmful results. In addition, plant diseases can devastate natural ecosystems, compounding environmental problems caused by habitat loss and poor land management. Moreover, lack of awareness regarding the efficient farming techniques and about the Govt inititiatives is aggregating to the miserable state of farmers.
+Farmers in India spend crores of rupees on disease management, often without adequate technical support, resulting in poor disease control, pollution and harmful results. In addition, plant diseases can devastate natural ecosystems, compounding environmental problems caused by habitat loss and poor land management. Moreover, lack of awareness regarding the efficient farming techniques and about the Govt. inititiatives is aggregating to the miserable state of farmers.
 
 Objective:
 To create a simple mobile application that'll enable users, specifically farmers, to recognize diseased plants and stay updated with farming practices.
