@@ -1,6 +1,7 @@
 # Cyborg
 
-Plant Disease Recognition App
+# Plant Disease Recognition App
+
 Theme: Artificial Intelligence & Machine Learning
 
 About the idea
