@@ -18,11 +18,11 @@ The idea is being implemented using 3 steps:
 * In case, an early indication of a disease is spotted, our application will recommend appropriate measures to the user to curb it.
 
 Tech Stack:
-Deep Learning Frameworks such as PyTorch/Keras/TensorFlow to implement Convolutional Neural Networks (CNNs).
-Quintessential Python libraries such as Numpy, Pandas, Seaborn etc.
-Dataset: https://www.kaggle.com/emmarex/plantdisease
-Amazon Web Services to host our trained model.
-Android Studio
+* Deep Learning Frameworks such as PyTorch/Keras/TensorFlow to implement Convolutional Neural Networks (CNNs).
+* Quintessential Python libraries such as Numpy, Pandas, Seaborn etc.
+* Dataset: https://www.kaggle.com/emmarex/plantdisease
+* Amazon Web Services to host our trained model.
+* Android Studio
 
 Conclusion:
 That was our simple solution based on a very basic idea, looking to bring about a small but signicant change in the agricultural industry, the heart of Third World countries like India.
