@@ -18,14 +18,13 @@ The idea is being implemented using following steps:
 * Our mobile application will enable the user to upload the picture of a plant's leaves to test for diseases.
 * Our application will specify whether a plant is suffering from a disease based on the findings of our trained model.
 * In case, an early indication of a disease is spotted, our application will recommend appropriate measures to the user to curb it.
-* Our application updates the farmer of newly implemented Govt schemes, initiatives and further proceeds to give the audio explanation   of the scheme.
+* Our application updates the farmer of newly implemented Govt schemes, initiatives and further proceeds.
 * It also sends daily farming tips and tricks to educate the farmer of various farming approaches and procedures.
 
 Tech Stack:
-* Deep Learning Frameworks such as PyTorch/Keras/TensorFlow to implement Convolutional Neural Networks (CNNs).
+* Deep Learning Frameworks such as Keras/TensorFlow to implement Convolutional Neural Networks (CNNs).
 * Quintessential Python libraries such as Numpy, Pandas, Seaborn etc.
 * Dataset: https://www.kaggle.com/emmarex/plantdisease
-* Amazon Web Services to host our trained model.
 * Android Studio
 
 Conclusion:
