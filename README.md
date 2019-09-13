@@ -27,5 +27,12 @@ Tech Stack:
 * Dataset: https://www.kaggle.com/emmarex/plantdisease
 * Android Studio
 
+Dependencies:
+* TensorFlow downgraded to 1.14
+* Other pip libraries upgraded to the latest version
+* developer.android.com/topic/libraries/support-library/packages.html#v7-cardview
+* developer.android.com/topic/libraries/support-library/packages.html#v7-recyclerview
+* square.github.io/picasso/
+
 Conclusion:
 That was our simple solution based on a very basic idea, looking to bring about a small but signicant change in the agricultural industry, the heart of Third World countries like India.
